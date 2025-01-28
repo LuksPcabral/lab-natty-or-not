@@ -12,7 +12,7 @@ Escolhi o DeepSeek como meu roteirista, onde pedi para que fosse gerado um scrip
 
 ## 🚀 Resultados
 O prompt para o DeepSeek foi bastate claro e me retornou um script enxuto, mas completo. A criação do video foi mais trabalhosa onde ocorreu a escolha de um avatar e o script para a fala. 
-<https://studio.d-id.com/share?id=ed11dbd63e1da703ffe3eaafee1eed8e&utm_source=copy>
+- <https://studio.d-id.com/share?id=ed11dbd63e1da703ffe3eaafee1eed8e&utm_source=copy>
 
 ## 💭 Reflexão (Opcional)
 Essas IA's generativas são de bastante eficiência e qualidade, minha voz ficou perfeita na lingua inglesa, o plano grátis tiveram algumas limitações de palavras e quantidade de cenas para serem apresentadas. 
